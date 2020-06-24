@@ -50,4 +50,6 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 
 *Licensed under the MIT license*
 
+Author: _Nathan Watkins-Hoagland_
+
 Copyright (c) 2020 **_{List of contributors or company name}_**
